@@ -1,1 +1,39 @@
-active:22 :38 : 16:
+active:22 :14 : 18:active:22 :14 : 18:pause:22 :14 : 18:active:22 :18 : 14: akbar
+active:22 :18 : 14: asghar
+pause:22 :18 : 14: akbar
+active:22 :19 : 15: akbar
+active:22 :19 : 15: asghar
+pause:22 :19 : 15: akbar
+active:22 :24 : 27: akbar
+active:22 :24 : 27: asghar
+pause:22 :24 : 27: akbar
+active:22 :25 : 05: akbar
+active:22 :25 : 05: asghar
+pause:22 :25 : 05: akbar
+pause:22 :25 : 05: akbar
+active:22 :25 : 05: asghar
+ active:22 :26 : 27: akbar
+active:22 :26 : 27: asghar
+pause:22 :26 : 27: akbar
+active:22 :26 : 27: asghar
+ active:22 :27 : 35: akbar
+active:22 :27 : 35: asghar
+pause:22 :27 : 35: akbar
+active:22 :27 : 35: asghar
+ active:22 :28 : 18: akbar
+active:22 :28 : 18: asghar
+pause:22 :28 : 18: akbar
+active:22 :28 : 18: asghar
+ active:22 :28 : 25: akbar
+active:22 :28 : 25: asghar
+pause:22 :28 : 25: akbar
+active:22 :28 : 25: asghar
+ active:22 :29 : 15: akbar
+active:22 :29 : 15: asghar
+pause:22 :29 : 15: akbar
+active:22 :29 : 15: asghar
+ active:22 :29 : 36: akbar
+active:22 :29 : 36: asghar
+pause:22 :29 : 36: akbar
+active:22 :29 : 36: asghar
+ 
