@@ -75,10 +75,19 @@ class Machine:
 
         return f"{self.status}:{self.time}: {self.name}\n "
 
-    def recharge(self):
-        for i in range(10, 101, 10):
-            time.sleep(2)
-            yield f"is charging in level: {i}"
+
+
+    def recharge():
+        def gen():
+            for i in range(10, 101, 10):
+                time.sleep(1)
+                yield f"is charging in level: {i}"
+
+        for i in gen():
+            print(i)
+
+    recharge()
+
 
 
 
@@ -94,7 +103,7 @@ with Report('text.txt') as rp:
     rp.write(m2.finish())
     
 
-print(next(m1.recharge()))
+#print(m1.recharge())
 
 
 
